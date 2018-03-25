@@ -3,11 +3,11 @@
 ## 使用方式
 第一步: Run Server</br>
 ```
-pyhton server.py
+python server.py
 ```
 第二步: Run Client</br>
 ```
-pyhton client.py
+python client.py
 ```
 
 ## 開發環境
