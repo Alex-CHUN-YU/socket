@@ -9,6 +9,7 @@ python server.py
 ```
 python client.py
 ```
+(以上程式的 IP 請都改為你 Server IP)
 
 ## 開發環境
 Python 3.5.2
