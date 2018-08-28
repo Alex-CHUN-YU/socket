@@ -1,6 +1,6 @@
 import socket
 
-HOST = '127.0.0.1' # Server IP
+HOST = '127.0.0.1' # Server IP(Change to your IP)
 PORT = 1994
 # Create Socket(Use TCP)
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
